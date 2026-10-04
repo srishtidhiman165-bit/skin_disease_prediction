@@ -1,0 +1,11 @@
+
+dataset/
+dataset_split/
+dataset_balanced/
+
+models/*.keras
+
+__pycache__/
+*.pyc
+
+.vscode/
